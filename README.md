@@ -1,7 +1,7 @@
 # -Bike-Sales-Dashboard
 This dashboard presents a high-level overview of bicycle sales performance from 2016 to 2018. The total revenue generated during this period is $7.69 million, with a customer base of 1,445.
 
-Key insights include:
+## Key insights include:
 2017 was the highest revenue-generating year.
 Trek is the leading brand, accounting for nearly 60% of total revenue.
 Baldwin Bikes is the top-performing store.
